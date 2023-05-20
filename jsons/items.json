@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Item 1",
+        "cost": 100.00,
+        "stock": 2,
+        "image": "https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "name": "Item 2",
+        "cost": 200.00,
+        "stock": 5,
+        "image": "https://images.pexels.com/photos/336372/pexels-photo-336372.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    },
+    {
+        "name": "Item 3",
+        "cost": 45.50,
+        "stock": 78,
+        "image": "https://images.pexels.com/photos/1598508/pexels-photo-1598508.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    },
+    {
+        "name": "Item 4",
+        "cost": 1000.00,
+        "stock": 0,
+        "image": "https://images.pexels.com/photos/267320/pexels-photo-267320.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    },
+    {
+        "name": "Item 5",
+        "cost": 2541.75,
+        "stock": 65,
+        "image": "https://images.pexels.com/photos/1027130/pexels-photo-1027130.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    }
+]
